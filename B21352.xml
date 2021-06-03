@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dreadful and most prodigious tempest at Markfield at Leicestershire, on Thursday Septemb. 7 Where most wonderful stones of hail fell down in the forms of swords, daggers, and halberts. Together with the terrible claps of thunder, and the noise of two armies incounting one another, the canons playing, and muskets shooting incessantly, and the lightning, flashing, and fighting against the lightning: with the dreadful devastation it made on the ground, trees being plucked up by the roots, and walls and houses torn n pieces. Attested by many able persons, and of undoubted credit, who were the sad spectators of it. To which is added the last observation of Sir George Booth: his character, transformation, and his epitaph.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21352</idno><idno type="EEBO-CITATION">99828091</idno>
+  <idno type="VID">207761</idno>
+  <idno type="EEBO-PROQUEST">2240881012</idno>
+  
+            <idno type="STC">Wing D2150</idno>
+            <idno type="PROQUEST">99828091</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828091e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207761)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1946:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dreadful and most prodigious tempest at Markfield at Leicestershire, on Thursday Septemb. 7 Where most wonderful stones of hail fell down in the forms of swords, daggers, and halberts. Together with the terrible claps of thunder, and the noise of two armies incounting one another, the canons playing, and muskets shooting incessantly, and the lightning, flashing, and fighting against the lightning: with the dreadful devastation it made on the ground, trees being plucked up by the roots, and walls and houses torn n pieces. Attested by many able persons, and of undoubted credit, who were the sad spectators of it. To which is added the last observation of Sir George Booth: his character, transformation, and his epitaph.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Will. Gilbertson at the sign of the Bible and Spur in Giltspur-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Delamer, George Booth, --  Baron, 1622-1684 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207761:1"/>
+            <p>The Dreadful and most Prodigious TEMPEST AT <hi>MARKFIELD</hi> in <hi>Leicestershire,</hi> On <hi>Thursday Septemb.</hi> 7.</p>
+            <p>Where most wonderful Stones of Hail fell down in the forms of Swords, Daggers, and Halberts.</p>
+            <p>Together with the Terrible Claps of Thunder, And the noise of two Armies incountring one another, the Canons playing, and Muskets shooting incessantly, and the Lightning, Flashing, and Fighting against the Lightning:</p>
+            <p>WITH The Dreadful Devastation it made on the Ground, Trees being plucked up by the roots, and Walls and Houses torn in pieces.</p>
+            <p>Attested by many able Persons, and of undoubted Credit, who were the sad Spectators of it.</p>
+            <p>To which is added the last Observation of Sir <hi>GEORGE BOOTH:</hi> His Character, Transformation, and his EPITAPH.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Will. Gilbertson</hi> at the Sign of the <hi>Bible</hi> and <hi>Spur</hi> in <hi>Giltspur-street,</hi> 1659.</p>
+            <pb facs="tcp:207761:2"/>
+            <pb facs="tcp:207761:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207761:3"/>
+            <pb n="3" facs="tcp:207761:3"/>
+            <head>The strange and dreadful Apparation of wonderful Meteors in the Air, at <hi>Markfield</hi> in <hi>Leicestershire,</hi> on <hi>Thursday Septemb.</hi> 7. 1659.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I proceed to give you an accompt of the many admirable and prodigious formes of haile-stones, which in a great storm of thunder and lightning, were taken up and shewed to many at <hi>Markfield</hi> in <hi>Leicestershire,</hi> on <hi>Thursday</hi> the 7<seg rend="sup">th</seg> of this present moneth of <hi>September;</hi> it will not be amiss to represent unto you, that it is the observation of some learned men, that some places by the Divine Providence, are more appropriate for miracles then others; not that the hand of God is confined to any peculiar place, but that he is pleased there more particularly to exercise his power, and to ma<g ref="char:EOLhyphen"/>nifest either his Indignation, or his good pleasure to the Sons of men: Of this the Histories both sacred and pro<g ref="char:EOLhyphen"/>fane, can furnish us with abundant examples, had we the leisure to prosecute so large a Theam.</p>
+            <p>Comets are sometimes seen in the Air, shooting forth their threatning Trains, like bushes of hair set on fire; Sometimes they appear in the form of a Lance, and some<g ref="char:EOLhyphen"/>times of a great Beam set on fire, and with great terrour they do fly thorough the Air. Sometimes they represent a naked Sword, and sometimes a flying Dragon, accor<g ref="char:EOLhyphen"/>ding to the disposition of the Exhalations, as they are more thin, or thick, and more or less capable of being inflamed.</p>
+            <p>The Philosophers do number up several sorts of them, and, do give several Names unto them, according to their several proportions and forms, or according to their situa<g ref="char:EOLhyphen"/>tions,
+<pb n="4" facs="tcp:207761:4"/>being higher or lower in the Regions of the Air, or as they are more swift or slow in their motions.</p>
+            <p>There hath been apparitions in the Air not onely in the forms of Stars, or Swords, or Lances but in the shapes of Men and Coaches drawn by horses. In <hi>Germany</hi> about twelve years since, there was seen the shape of a Man in the Air, sitting in the clowds, and cloa hed all in wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te, on his brows were to be seen the rays of Divinity. Those that beheld it, did intertain in their hearts the preparations for Repentance, and amendment of life, believi g they had seen some sign whereby they might justly suggest un<g ref="char:EOLhyphen"/>to themselves that the Resurrection was at hand.</p>
+            <p>We have heard and seen of late of many forms of Hail-stones, which have caused great wonder in the be<g ref="char:EOLhyphen"/>holders Sometimes they have been taken up and ob<g ref="char:EOLhyphen"/>served for the most part to be flat, as in that dreadful storm of Hail, presently after that it rained fire from heaven, which was beheld by many travailers coming late to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> not far from <hi>Epping</hi> about three years since, and much about this time of the year: The Hail-stones then that fell were of a great breadth, and looked like so many flat pieces of Ice. Sometimes they have been seen to be square in their form, and above an Inch and an half in length; sometimes again they have been beheld to be of a great bigness, and to carry on them the Image of the face of a Man, which indeed although it be wonderful, we find the like to be recorded in History. The form of these which I come now to relate unto you, is truely rare, for although in the Air, there have oft been seen the shapes of naked Swords, and Daggers, and some forms of Meteors representing Spears, and thers representing Halberts yet we can never find that any falling from the cloud, were taken up from the earth, as these were which I come now to declare unto you.</p>
+            <p>On <hi>Thursday Septemb.</hi> 7. in the afternoon there was seen at <hi>Markfield</hi> in <hi>Leicestershire</hi> extraordinary flashes of light<g ref="char:EOLhyphen"/>ning,
+<pb n="5" facs="tcp:207761:4"/>which breaking from the angry clouds made way for the ensuing thunder, the clappes whereof were terrible and continued chiding and roaring in the Air for the space of an hour: At every silence and respite of the thunder, the lightning during this dreadful storm did break forth with great force: And the next voyce of the thunder was louder, and more affrighting then that which was be<g ref="char:EOLhyphen"/>fore; There were no showres of raine, but at the last there was a most black; and dreadful storm of Haile, and in stead of Hail-stones there fell ratling down from the Air, Halbeards, Swords, and Daggers, which being taken up were found to be of the same nature, and to be be<g ref="char:EOLhyphen"/>gotten of the same extremity of Cold as were the Hail<g ref="char:EOLhyphen"/>stones, and after a little time, both the sight and the fright which the sight brought with it, did melt away at once. Many of the Town of <hi>Markfield,</hi> and places adja<g ref="char:EOLhyphen"/>cent were much amazed at this prodigious spectacle, which to increase their wonder, was seconded by another terri<g ref="char:EOLhyphen"/>ble noise in the Air, as if two great Armies had been on their march, and advancing one against the other; The Canons were heard to play with importunate fury, and the muskets on both sides in repeated volleys did discharge their cholerick errands: During this incounter there were beheld many prodigious erruptions of fire, which with great violence did fly in the Air, and running lower, did tear in pieces many strong Houses, and laid great Trees on their backs, which in an instance were plucked up by the roots. There was not far off a Lime-kiln, on which some part of the tempest did fall with so great violence that all the Lime was blown up in the Air, just as in a high storm the waters of the Sea are blown, when the winds and the waves do wrastle for supremacy. This being done, this part of the fiery tempest which came so low, was seen by all to take its course up the hill, where it vanished away, and there was heard no more noyse of it.</p>
+            <p>It is certified by several letters, that this Tempest at
+<pb n="6" facs="tcp:207761:5"/>the first did appear like a thick and rowling Smoak, and sometimes it would cast it self into a great Circumference, like to a great wheel, or an Orbe, not easie to be com<g ref="char:EOLhyphen"/>passed.</p>
+            <p>There is no man ignorant of the late great Indevours to ingage this Nation again in a new War, which by the Al<g ref="char:EOLhyphen"/>mighty goodnesse is now quieted, and since we enjoy peace on Earth, let us pray for the Continuance of it, that so these Daggers and these Halberts, may fall in vain from the Armory of Heaven.</p>
+            <p>Sir <hi>George Booth</hi> is now a prisoner in the <hi>Tower,</hi> He that threatned so much alteration, and to fil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Island with the thunders of his Arms, was inforced to fly at the first Sight, and to sue for his safety to the protection of a Petticoat, which we can find no where better represented, then in this ensuing Poem.</p>
+            <q>
+               <l>
+                  <hi>What strange</hi> Hermaphrodite, <hi>two Sex in one!</hi>
+               </l>
+               <l>
+                  <hi>What first Sir</hi> George, <hi>and now must be Sir</hi> Joan;</l>
+               <l>
+                  <hi>He hath took a new strange faction for his Cure,</hi>
+               </l>
+               <l>
+                  <hi>What turn'd from the old? An</hi> Anabaptist <hi>sure;</hi>
+               </l>
+               <l>
+                  <hi>He is converted, 'tis no Robbery,</hi>
+               </l>
+               <l>
+                  <hi>Exchang'd from</hi> George, <hi>but to Sir</hi> Dorothy.</l>
+               <l>
+                  <hi>Sure he did think by putting on the Gown,</hi>
+               </l>
+               <l>
+                  <hi>That there were left no Midwives in Town:</hi>
+               </l>
+               <l>
+                  <hi>But h'is mistook, he hath it not by roat,</hi>
+               </l>
+               <l>
+                  <hi>For all his Tricks, wee I pay his Petticoat.</hi>
+               </l>
+               <l>
+                  <hi>He did not like</hi> Mars <hi>Wars, but</hi> Venus <hi>Lock,</hi>
+               </l>
+               <l>
+                  <hi>And left the Steel to take the Linnen Smock;</hi>
+               </l>
+               <l>
+                  <hi>Just like young Blades that creep out of the husk,</hi>
+               </l>
+               <l>
+                  <hi>The Sword was not for him, he took the Busk.</hi>
+               </l>
+               <l>
+                  <hi>Away, away, for it doth bring but loathing,</hi>
+               </l>
+               <l>
+                  <hi>Wee'l find such Wolfes, though covered in Sheeps cloathing.</hi>
+               </l>
+               <l>
+                  <hi>The Whirlwind of his Fan's like Bottle-beer</hi>
+               </l>
+               <l>
+                  <hi>To blow him up, wee'l lace his Stomacher;</hi>
+               </l>
+               <l>
+                  <hi>I think his Name is changed every tittle,</hi>
+               </l>
+               <l>
+                  <hi>For</hi> George <hi>and</hi> Doll <hi>agree but very little;</hi>
+               </l>
+               <pb n="7" facs="tcp:207761:5"/>
+               <l>
+                  <hi>But now I think upon't, his wit was such</hi>
+               </l>
+               <l>
+                  <hi>To choose one out of use like</hi> Pancridge <hi>Church;</hi>
+               </l>
+               <l>
+                  <hi>For if it were too neer, there were no losse,</hi>
+               </l>
+               <l>
+                  <hi>Right against</hi> Pauls <hi>is standing</hi> Charing Crosse.</l>
+               <l>
+                  <hi>But that's not all to this what I have said,</hi>
+               </l>
+               <l>
+                  <hi>He might remember</hi> Doll <hi>the Dairy-maid.</hi>
+               </l>
+               <l>
+                  <hi>Mark but the time, you see old things grow new,</hi>
+               </l>
+               <l>
+                  <hi>The yeer is gone, and in comes</hi> Bartholmew:</l>
+               <l>
+                  <hi>I dare affirm he thought there to be set</hi>
+               </l>
+               <l>
+                  <hi>A stately</hi> Booth <hi>ith Fayr for to be let,</hi>
+               </l>
+               <l>
+                  <hi>Inrich'd with hangings, and I do suppose</hi>
+               </l>
+               <l>
+                  <hi>The Bill for it is Droppings of his Nose,</hi>
+               </l>
+               <l>
+                  <hi>In these Characters bloudy red, not green,</hi>
+               </l>
+               <l>Within this <hi>Booth</hi> Sir <hi>George</hi> is to be seen.</l>
+               <l>
+                  <hi>I wish all Sharks whose wealth's not worth a louse</hi>
+               </l>
+               <l>
+                  <hi>To take this</hi> Booth, <hi>for he might turn a House,</hi>
+               </l>
+               <l>
+                  <hi>He hath such Transactions, and such Jig's withall,</hi>
+               </l>
+               <l>
+                  <hi>Turn but his mind, and he may turn a Hall;</hi>
+               </l>
+               <l>
+                  <hi>O! he was dreaming, or lay in a trance,</hi>
+               </l>
+               <l>
+                  <hi>He thought by's Coats to make the Stones to dance.</hi>
+               </l>
+               <l>
+                  <hi>I wish him turn</hi> Jack Pudding, <hi>and make known</hi>
+               </l>
+               <l>
+                  <hi>To leap out of mans cloaths into a gown;</hi>
+               </l>
+               <l>
+                  <hi>Nay that's not all, for when he is come to t</hi>
+               </l>
+               <l>
+                  <hi>He l be Sir</hi> George <hi>on Horse, Sir</hi> Doll <hi>on foot;</hi>
+               </l>
+               <l>
+                  <hi>He's turn'd from the</hi> English <hi>Church, to th'</hi> Scottish <hi>Kirk;</hi>
+               </l>
+               <l>
+                  <hi>Nay from a Cods-head, he's turn'd to a Shirk;</hi>
+               </l>
+               <l>
+                  <hi>Ha, ha, I can but laugh, here is the thing,</hi>
+               </l>
+               <l>
+                  <hi>Now after this hee'l make good salted Ling;</hi>
+               </l>
+               <l>
+                  <hi>He did leave all, both Country, Wife, and Riches,</hi>
+               </l>
+               <l>
+                  <hi>And turn'd his Back, and ran out of his Breeches.</hi>
+               </l>
+               <l>
+                  <hi>This is the Champion in the Wars of</hi> Mars</l>
+               <l>
+                  <hi>Who fought so long till's cloaths fell of his Arse,</hi>
+               </l>
+               <l>
+                  <hi>And now for them he's glad to put in place</hi>
+               </l>
+               <l>
+                  <hi>A Tammy Petticoat, with Poor-whores lace,</hi>
+               </l>
+               <l>
+                  <hi>That now he swears, 'tis good for him to yeild,</hi>
+               </l>
+               <l>
+                  <hi>A downy Bed is better then a field;</hi>
+               </l>
+               <pb n="8" facs="tcp:207761:6"/>
+               <l>
+                  <hi>So for safe guard from all his dangerous foes</hi>
+               </l>
+               <l>
+                  <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hath crept under his old Grandams cloaths</hi>
+               </l>
+               <l>
+                  <hi>He had best take heed of a Crack that's louder,</hi>
+               </l>
+               <l>
+                  <hi>For <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> old woman she may turn to powder.</hi>
+               </l>
+               <l>
+                  <hi>And blow him up, her Cloaths cannot but smell</hi>
+               </l>
+               <l>
+                  <hi>O'th stinking touch-hole like the mouth of</hi> Hell.</l>
+               <l>
+                  <hi>The handsome Leg is gone, and manly Brow,</hi>
+               </l>
+               <l>
+                  <hi>He's turn'd a Female, drops a Courtsie now,</hi>
+               </l>
+               <l>
+                  <hi>It is so humble that none can make lower,</hi>
+               </l>
+               <l>
+                  <hi>He hath dropt so long, he's dropt into the</hi> Tower;</l>
+               <l>
+                  <hi>As for his Skin, believe me 'tis so loose</hi>
+               </l>
+               <l>
+                  <hi>That from a Gander he's dropt to a Goose;</hi>
+               </l>
+               <l>
+                  <hi>It was my study, and my dayly Care</hi>
+               </l>
+               <l>
+                  <hi>To term him Knight, but now I'le call him Player;</hi>
+               </l>
+               <l>
+                  <hi>For he's so cunning, and so wary grown</hi>
+               </l>
+               <l>
+                  <hi>Hee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l be a man abroad, a Maid at home;</hi>
+               </l>
+               <l>
+                  <hi>He will not stick, and that in publick view</hi>
+               </l>
+               <l>
+                  <hi>For to be both the Wife and Husband too;</hi>
+               </l>
+               <l>
+                  <hi>Sure he by</hi> Sybil, <hi>or a Crew of Witches</hi>
+               </l>
+               <l>
+                  <hi>Was sham'd for to let VVomen wear the breeches.</hi>
+               </l>
+               <l>
+                  <hi>There is no pleasure in't, I m sure there is pain,</hi>
+               </l>
+               <l>
+                  <hi>His slavering mouth must have a Bib again.</hi>
+               </l>
+               <l>
+                  <hi>Oh, Oh, I'm mad, but if that here be room</hi>
+               </l>
+               <l>
+                  <hi>I'd have this</hi> Epitaph <hi>upon his Tomb.</hi>
+               </l>
+            </q>
+            <lg>
+               <head>His Epitaph.</head>
+               <l>
+                  <hi>Here lyeth under this,</hi>
+               </l>
+               <l>
+                  <hi>Would you know who it is?</hi>
+               </l>
+               <l>
+                  <hi>In Truth a very Oddin.</hi>
+               </l>
+               <l>
+                  <hi>'Tis neither he, nor she,</hi>
+               </l>
+               <l>
+                  <hi>Then say who it should he,</hi>
+               </l>
+               <l>
+                  <hi>Oh 'las! 'tis</hi> Anniseed Robin.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207761:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
